@@ -1,3 +1,4 @@
+# Script created and published by Netwrix - https://www.netwrix.com/how_to_get_user_login_history.html
 $user="administrator"  
 # Find DC list from Active Directory  
 $DCs = Get-ADDomainController -Filter *  
